@@ -1,1 +1,3 @@
-A C++ program that models a snake game inside a terminal.
+# C++ Snake Game
+
+Models a snake game inside a terminal.
